@@ -1,1 +1,1 @@
-Stan's bot
+Stan Finkle's bot
